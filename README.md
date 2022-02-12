@@ -120,11 +120,11 @@ Displays details of the submitted order contents and the van to pick up from. If
 ## VAN'&FEINE Vendor Server
 Access the vendor server through https://caffeine-addicts-vendor-webapp.herokuapp.com/vendor/login 
 
-Experience the app by logging as vendor Coffee 'n' Chill  using:
+Experience the app by logging as vendor Coffee 'n' Chill  using: <br />
 email: coffeenchill@gmail.com </br>
 password: coffeenchill123 </br>
 
-or Mocha Mood: 
+or Mocha Mood: <br />
 email: mochamood@gmail.com <br />
 password: mochamood123 </br>
 
@@ -167,7 +167,7 @@ https://caffeine-addicts-vendor-webapp.herokuapp.com/vendor/login and login to a
 email: coffeenchill@gmail.com <br />
 password: coffeenchill123
 
-or
+or <br />
 
 email: mochamood@gmail.com <br />
 password: mochamood123
